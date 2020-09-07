@@ -1,0 +1,35 @@
+body{
+    background-color: slategray;
+}
+
+.contact-wrap{
+    width: auto;
+    background-color: white;
+    padding: 30px;
+    margin: 75px 300px auto 20px;
+}
+
+/* .container-lg{
+    max-width: 60vw;
+    background-color: white;
+    padding: 30px;
+    margin-top: 75px;
+    margin-left: 20px;
+}
+
+.container-sm{
+    max-width: 90vw;
+    background-color: gray;
+    padding: 30px;
+    margin-top: 75px;
+    margin-left: 15px;
+    margin-right: 15px;
+} */
+
+@media (max-width: 575px) {
+    .contact-wrap {
+      padding:30;
+      margin: 50px 15px auto 15px;
+    }
+}
+  
