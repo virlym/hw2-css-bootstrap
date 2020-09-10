@@ -15,7 +15,7 @@ deployed page : https://virlym.github.io/hw2-css-bootstrap/
 
 preview images based on screen size:
 
-992 px
+992 px:
 
 ![index](https://github.com/virlym/hw2-css-bootstrap/blob/master/Assets/992-index.PNG)
 ![portfolio](https://github.com/virlym/hw2-css-bootstrap/blob/master/Assets/992-portfolio.PNG)
