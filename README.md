@@ -7,3 +7,6 @@ Key code includes:
 2) the navbar contains links to Home/About, Contact, and Portfolio page
 3) Use of semantic html
 4) Utilizes Bootstrap components and grid system
+
+github repo : https://github.com/virlym/hw2-css-bootstrap
+deployed page : https://virlym.github.io/hw2-css-bootstrap/

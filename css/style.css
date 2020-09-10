@@ -7,11 +7,12 @@ p{
 }
 
 .content-wrap{
+    position: relative;
     width: auto;
     min-width: 460px;
     background-color: white;
     padding: 30px;
-    margin: 75px 300px auto 20px;
+    margin: 75px 300px 75px 20px;
 }
 
 .about-img{
@@ -21,11 +22,26 @@ p{
 }
 
 .folio-img{
-    margin: 40px auto 0px auto;
-    height: 260px;
-    width: 326px;
+    
+     margin: 40px auto 0px auto;
+    /* height: 260px;
+    width: 260px;
     max-height: 260px;
-    max-width: auto;
+    max-width: auto; */
+}
+
+footer{
+    border-top-style: solid;
+    border-top-color: lightseagreen;
+    border-top-width: 5px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: skyblue;
+    font-size: 20px;
+    font-family: 'Bilbo', 'Times New Roman', Times, serif;
+    text-align: center;
 }
 
 @media (max-width: 575px) {
