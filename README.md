@@ -14,16 +14,16 @@ deployed page : https://virlym.github.io/hw2-css-bootstrap/
 
 preview images based on screen size:
 992 px
-![index](https://github.com/virlym/hw2-css-bootstrap/tree/master/Assets/992-index.PNG)
-![portfolio](https://github.com/virlym/hw2-css-bootstrap/tree/master/Assets/992-portfolio.PNG)
-![contact](https://github.com/virlym/hw2-css-bootstrap/tree/master/Assets/992-contact.PNG)
+![index](https://github.com/virlym/hw2-css-bootstrap/blob/master/Assets/992-index.PNG)
+![portfolio](https://github.com/virlym/hw2-css-bootstrap/blob/master/Assets/992-portfolio.PNG)
+![contact](https://github.com/virlym/hw2-css-bootstrap/blob/master/Assets/992-contact.PNG)
 
 768 px:
-![index](https://github.com/virlym/hw2-css-bootstrap/tree/master/Assets/768-index.PNG)
-![portfolio](https://github.com/virlym/hw2-css-bootstrap/tree/master/Assets/768-portfolio.PNG)
-![contact](https://github.com/virlym/hw2-css-bootstrap/tree/master/Assets/768-contact.PNG)
+![index](https://github.com/virlym/hw2-css-bootstrap/blob/master/Assets/768-index.PNG)
+![portfolio](https://github.com/virlym/hw2-css-bootstrap/blob/master/Assets/768-portfolio.PNG)
+![contact](https://github.com/virlym/hw2-css-bootstrap/blob/master/Assets/768-contact.PNG)
 
 400px:
-![index](https://github.com/virlym/hw2-css-bootstrap/tree/master/Assets/400-index.PNG)
-![portfolio](https://github.com/virlym/hw2-css-bootstrap/tree/master/Assets/400-portfolio.PNG)
-![contact](https://github.com/virlym/hw2-css-bootstrap/tree/master/Assets/400-contact.PNG)
+![index](https://github.com/virlym/hw2-css-bootstrap/blob/master/Assets/400-index.PNG)
+![portfolio](https://github.com/virlym/hw2-css-bootstrap/blob/master/Assets/400-portfolio.PNG)
+![contact](https://github.com/virlym/hw2-css-bootstrap/blob/master/Assets/400-contact.PNG)
