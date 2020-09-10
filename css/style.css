@@ -2,10 +2,12 @@ body{
     background-color: slategray;
 }
 
+/* added margins to the top/bottom of the paragraph tags so that there was some spacing in the About Me page */
 p{
     margin: 20px auto;
 }
 
+/*keeping the wrappers on each page uniform, while also visually similar to the model pages */
 .content-wrap{
     position: relative;
     width: auto;
@@ -15,21 +17,26 @@ p{
     margin: 75px 300px 75px 20px;
 }
 
+/* Set the About Me image to fixed dimensions so as to follow the model pages */
 .about-img{
     margin: 20px 20px 10px auto;
     height: 200px;
     width: 200px;
 }
 
+/* modify the margins for the portfolio page so that the images are spaced properly and will transition to 1 or 2 per line depending on screen size */
 .folio-img{
     
      margin: 40px auto 0px auto;
-    /* height: 260px;
+    /* saved dimensions to match the model page's picture dimensions if using non-350x350 pictures
+    height: 260px;
     width: 260px;
     max-height: 260px;
-    max-width: auto; */
+    max-width: auto; 
+    */
 }
 
+/* styled a sticky footer with a small border on top to make it stand out more */
 footer{
     border-top-style: solid;
     border-top-color: lightseagreen;
@@ -44,6 +51,7 @@ footer{
     text-align: center;
 }
 
+/* Change the wrapper dimensions and margins for xs screens */
 @media (max-width: 575px) {
     .content-wrap {
         min-width: auto;
