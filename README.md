@@ -8,6 +8,7 @@ Key code includes:
 3) Use of semantic html
 4) Utilizes Bootstrap components and grid system
 5) Has a sticky footer
+6) includes links to a project and two homework assignments
 
 github repo : https://github.com/virlym/hw2-responsive-portfolio
 

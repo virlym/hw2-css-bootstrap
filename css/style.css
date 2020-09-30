@@ -7,6 +7,15 @@ p{
     margin: 20px auto;
 }
 
+figcaption{
+    text-align: center;
+}
+
+.modal-header,
+.modal-footer{
+    background-color: slategray;
+}
+
 /*keeping the wrappers on each page uniform, while also visually similar to the model pages */
 .content-wrap{
     position: relative;
@@ -26,8 +35,7 @@ p{
 
 /* modify the margins for the portfolio page so that the images are spaced properly and will transition to 1 or 2 per line depending on screen size */
 .folio-img{
-    
-     margin: 40px auto 0px auto;
+    margin: 40px auto 0px auto;
     /* saved dimensions to match the model page's picture dimensions if using non-350x350 pictures
     height: 260px;
     width: 260px;
